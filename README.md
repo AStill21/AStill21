@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AStill21
 - 👀 I’m interested in all things food, anime, music and traveling.
-- 🌱 I’m currently learning CODING, JAVASCRIPT TO BE EXACT 
+- 🌱 I’m currently learning CODING, JS, CSS, TDD, HTML, and more! 
 - 💞️ I’m looking to collaborate on games of all types, anime/animation, and debugging
 - 📫 How to reach me by email @ stillwell.amiya@gmail.com
 
